@@ -1,4 +1,4 @@
-# Manual QA Testing Portfolio – Brie
+# Manual QA Testing Portfolio – Brilliant
 
 ## About Me
 Aspiring Junior Manual QA Tester with hands-on practice in writing test cases, performing negative and boundary testing, and reporting bugs. Currently building real-world testing skills and seeking an entry-level or internship QA role.
