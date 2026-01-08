@@ -14,6 +14,7 @@ Aspiring Junior Manual QA Tester with hands-on practice in writing test cases, p
 
 ## Test Cases
 - [Login Test Cases](test-cases/login-test-cases.md)
+- [Search and Cart Test Cases](test-cases/search-and-cart-test-cases.md)
 
 ## Bug Reports
 - [Invalid Email Login Bug](bug-reports/invalid-email-login-bug.md)
